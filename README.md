@@ -9,7 +9,7 @@
    * **demo** displays the robot Kyle with a sci-fi gun that fires furniture while spinning around.
    * In **firstManipulator**, the objects can be repositioned by using the MRTK object manipulator, the component `Grid Object Collection` is applied to smaller verisions of the robot Kyle, and a sci-fi gun visibility can be enabled/disabled with either the normal or the big button.	   
 
-   Enjoy! :rage2:	
+   Enjoy! 
 
 
 ##
