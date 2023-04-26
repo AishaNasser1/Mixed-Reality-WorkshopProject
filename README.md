@@ -1,1 +1,1 @@
-This scene showcases my room configurator.
+This scene shows my room configurator.
